@@ -4097,18 +4097,6 @@
       "url": "https://jx.zhanlangbu.com/?url="
     }
 ],
-//壁纸
-//"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
- //"wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
-//"wallpaper": "https://tool.weetai.cn/api",
-"warningText": "追剧4k",
-//自定义jar
-"spider": "http://4kapi.magictool.cn/free4k/fan.txt",
- //"spider": "http://我不是.肥猫.live/Jar/pandaQ231115.jar;md5;cb2a84ff515a9d54fc7590bb56d62f04",
-//"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2",
-// "spider": "./svipysc/YSC.jar;md5;f1c129c7f789310d34619fe9688f6c2a",
-//"spider": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb",
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
