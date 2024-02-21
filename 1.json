@@ -4097,6 +4097,7 @@
       "url": "https://jx.zhanlangbu.com/?url="
     }
 ],
+"spider": "http://4kapi.magictool.cn/free4k/fan.txt",
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
